@@ -1,1 +1,2 @@
-# neural
+# Jarvis
+Basic Neural Network
